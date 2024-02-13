@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer Flores</h1>
 <h3 align="center">A passionate Software Developer in the Philippines,</h3>
 
-- 🔭 I’m currently working on **my personal projects**
+- 🔭 I’m currently working on **my personal projects usually in gitlab**
 
 - 🌱 I’m currently learning **AWS, Cloud Basic Things, Vue3**
 
