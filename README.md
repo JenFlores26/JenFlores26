@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my personal projects usually in gitlab**
 
-- 🌱 I’m currently learning **AWS, Cloud Basic Things, Vue3**
+- 🌱 I’m currently learning **AWS, Cloud Basic Things, Vue3 and many more**
 
-- ⚡ Fun fact **I love to collaborate and fascinate about people's ideas.**
+- ⚡ Fun fact **I love to collaborate and IM always fascinated about people's ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
